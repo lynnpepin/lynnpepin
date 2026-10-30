@@ -3,10 +3,7 @@
 # hello! 🌊
 
 
-> [!TIP]
-> - I'm **currently working on** [Demake86](https://opossumcarrion.itch.io/demake86) and dabbling with iOS app development.
-> - You can **reach me** through email, [see lynndotpy.dev/about](https://lynndotpy.dev/about/).
-> - I am currently not looking to collaborate on non-commercial projects.
+> tldr, I'm **currently working on** [Demake86](https://opossumcarrion.itch.io/demake86) and other side projects. You can **reach me** through email, [see lynndotpy.dev/about](https://lynndotpy.dev/about/). I am currently not looking to collaborate on non-commercial projects.
 
 <img width="1042" height="360" alt="1EF43439-1246-448B-A74C-B753AD301316_4_5005_c" src="https://github.com/user-attachments/assets/78832813-f6e7-4cf9-9a07-5bc71b161128" />
 
