@@ -12,15 +12,15 @@ Hi, my name is Lynn. I'm a fullstack dev and former CS PhD student, with a resea
 
 I created the [Reso graphic logic circuit language](https://github.com/resolang/reso) and the [videogame Demake86](https://opossumcarrion.itch.io/demake86), plus a few other things. I'm a lifelong "luser" (Linux user) and I am using those skills as sysadmin for a few online communities.
 
-I particularly like the following technology:
+I particularly prefer the following technology:
 
-- **Python** is great for rapid iteration. It has a library for everything, the best REPL interfaces, and can even be used for embedded prototyping.
-- **Pure TypeScript** / JS + HTML+CSS is great for being the most portable way to distribute software to people, like this [IPS tool[(https://bbbradsmith.github.io/ipstool/).
-- **Rust** has been evangelized enough, I like it.
-- **Go**.
-- **Godot** has been the best FOSS game engine since 2016. I've built virtual submarine training systems in it, bespoke machinery for physical tabletop games, as well as tiny games. I love Godot.
+- **Python** (and CircuitPython for embedded) are typically my first choices, especially for rapid-prototyping or short deadlines. With an exception of...
+- **Go** for any server-side logic. I prefer it over Node because static compilation makes nearly every deployment scenario much easier.
+- **Vanilla JS** (client side) for utility programs meant to be consumed by people. It works on anything with a webbrowser and users don't need to download anything.
+- **Rust** for all the reasons annoying evangelists mention. (But again static-builds-by-default are really useful.)
+- **Godot** for games or interacting tooling. I started using Godot in 2016, building virtual submarine training simulators, moving on to utilities for physical tabletop games and small hobby games. With exceptions (e.g. Unreal and Carla for autonomous vehicles), I strongly prefer Godot among other game engines.
 
-On LLMs: I left my AI PhD as my optimism for a better future faded to pessimism, concern, and horror. Much of the recent productivity gain attributed to LLMs instead come from lower standards of quality and reliability. LLMs can be used to improve code quality, but only in the right hands. So, I am open to collaborating with people who take software engineering as a serious craft, who also retain high pre-2022 standards. I will never use LLMs to generate text for human consumption and I ask you never to send me LLM-generated text.
+On LLMs: I left my AI PhD as my optimism faded to pessimism, concern, and then horror as I saw dual-use concerns come to fruition. Before then, I was optimistic that the research would lead to a better future. Much of the recent productivity gain attributed to LLMs instead come from lower standards of quality and reliability. LLMs can be used to produce higher quality code at a higher speed, but only in the right hands! So, I am open to collaborating with people who take software engineering as a serious craft, who also retain high standards, LLMs or otherwise. I will never use LLMs to generate text for human consumption, and I ask you never to send me LLM-generated text.
 
-I have a citizen-science interest in psychometrics, especially in perception of age and sound. I very much enjoy hiking. Photo is of an August sunrise on a North Carolina beach. Please feel free to reach out and say hi :)
+I have a citizen-science interest in psychometrics, especially in perception of time and sound. I very much enjoy hiking. Photo header is of an August sunrise on a North Carolina beach. Please feel free to reach out and say hi :)
 
